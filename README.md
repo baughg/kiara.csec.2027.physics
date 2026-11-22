@@ -4,7 +4,7 @@ Kiara Best, 16, lives in St John, on the east of Barbados, with her mother, her 
 
 She is tutored by Miss Morrison, three evenings a week, from November 2026 to the end of April 2027.
 
-- Study site, with progress: https://baughg.github.io/kiara.csec.2027.physics/
+- Study site, with progress: https://csecgym.github.io/kiara.csec.2027.physics/
 - The series on YouTube: https://www.youtube.com/playlist?list=PLXpLmmIybE5c
 - The complete course on YouTube: https://www.youtube.com/playlist?list=PLVpuEr2xIkJw
 - The plan: [plan.md](plan.md)

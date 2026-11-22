@@ -1,0 +1,89 @@
+{
+ "version": 1,
+ "series": {
+  "id": "physics",
+  "subject": "CSEC Physics",
+  "student": "Kiara Best",
+  "goal": "At least Grade II in CSEC Physics, May-June 2027, aiming for Grade I",
+  "cover": "https://csecgym.github.io/kiara.csec.2027.physics/assets/cover.jpg",
+  "series_playlist": "https://www.youtube.com/playlist?list=PLXpLmmIybE5c",
+  "course_playlist": "https://www.youtube.com/playlist?list=PLVpuEr2xIkJw"
+ },
+ "episodes": [
+  {
+   "n": 1,
+   "week": 1,
+   "session": 1,
+   "date": "Mon 23 Nov 2026",
+   "title": "Meet Kiara",
+   "summary": "Meet Kiara Best, a Fifth Form student from St John, Barbados. She has 4,000 followers on TikTok, spends six and a half hours a day on her phone, and scored 41% in Form 4 physics. In her first session we set her goal, look at the whole exam, and run a diagnostic test.",
+   "video_id": "FB9mb4HWE3E",
+   "question_sheet": "https://csecgym.github.io/kiara.csec.2027.physics/sheets/ep-01-question-sheet.pdf",
+   "answers": "https://csecgym.github.io/kiara.csec.2027.physics/sheets/ep-01-answers.pdf",
+   "corrections": "https://csecgym.github.io/kiara.csec.2027.physics/sheets/ep-01-corrections.pdf",
+   "lessons": [
+    {
+     "n": 3,
+     "title": "Measurement, Errors and Significant Figures",
+     "video_id": "aYflxW4YnMg",
+     "why": "For calculations: Formula, Fill, Finish: write the formula, fill in numbers with units, finish with a unit."
+    }
+   ],
+   "homework": [
+    "Watch Lesson 3: Measurement, Errors and Significant Figures, with the phone in Granny's room.",
+    "Do item 6 again: the density of the block, with the formula, the numbers with units, and the answer with its unit. Bring it on Wednesday.",
+    "Turn on Do Not Disturb before our next session."
+   ]
+  },
+  {
+   "n": 2,
+   "week": 1,
+   "session": 2,
+   "date": "Wed 25 Nov 2026",
+   "title": "The Diagnosis and the Plan",
+   "summary": "Kiara gets her diagnostic results: 14 out of 30. She is strong in waves, sound and light, from her video work. We find her five weaknesses, with evidence from her own answers, and build a 23-week plan.",
+   "video_id": "uZWBwH-0Jf4",
+   "question_sheet": "https://csecgym.github.io/kiara.csec.2027.physics/sheets/ep-02-question-sheet.pdf",
+   "answers": "https://csecgym.github.io/kiara.csec.2027.physics/sheets/ep-02-answers.pdf",
+   "corrections": "https://csecgym.github.io/kiara.csec.2027.physics/sheets/ep-02-corrections.pdf",
+   "lessons": [
+    {
+     "n": 4,
+     "title": "Density",
+     "video_id": "CcVE6_hqGp4",
+     "why": "For calculations: Formula, Fill, Finish: write the formula, fill in numbers with units, finish with a unit."
+    }
+   ],
+   "homework": [
+    "Watch Lesson 4: Density, in two focus blocks of 25 minutes.",
+    "Puzzle for Saturday: Granny's bucket holds 15 litres of water. Without a scale, how many kilograms of water is that?",
+    "One tick on the calendar for each focus block."
+   ]
+  },
+  {
+   "n": 3,
+   "week": 1,
+   "session": 3,
+   "date": "Sat 28 Nov 2026",
+   "title": "Formula, Fill, Finish",
+   "summary": "Formula, Fill, Finish: one routine for every calculation. Kiara converts units with a metre cube, finds the weight of Granny's water buckets, and gets full marks on an exam-style density question.",
+   "video_id": "slARCfRqwRY",
+   "question_sheet": "https://csecgym.github.io/kiara.csec.2027.physics/sheets/ep-03-question-sheet.pdf",
+   "answers": "https://csecgym.github.io/kiara.csec.2027.physics/sheets/ep-03-answers.pdf",
+   "corrections": "https://csecgym.github.io/kiara.csec.2027.physics/sheets/ep-03-corrections.pdf",
+   "lessons": [
+    {
+     "n": 2,
+     "title": "Graphs, Best-Fit Lines and Gradients",
+     "video_id": "uGLEejmjndM",
+     "why": "For graphs: Label every axis 'quantity / unit'."
+    }
+   ],
+   "homework": [
+    "Watch Lesson 2: Graphs, Best-Fit Lines and Gradients.",
+    "Ten calculations from Lessons 3 and 4, each in three lines. Photograph the page and send it before Tuesday.",
+    "Your 60-second video: after a focus block, no more than 20 minutes to film and edit, every fact checked against the lesson."
+   ]
+  }
+ ]
+}
