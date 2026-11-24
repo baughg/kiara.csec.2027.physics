@@ -96,7 +96,7 @@ Crossovers with the other series: Week 9, session 3: Study hall with Arjun Ramde
 ### Week 6 (from 28 Dec 2026): Section A: Mechanics
 
 - **Mon 28 Dec 2026: Mechanics Checkpoint.** Timed test on Section A. Study: practice set in the session.
-- **Wed 30 Dec 2026: Checkpoint Results.** Updated skill profile; adjust the plan. Study: Lesson 15: Temperature and Thermometers.
+- **Wed 30 Dec 2026: Checkpoint Results.** Updated skill profile; adjust the plan; SBA check-in: lab book audit, which practicals are missing. Study: Lesson 15: Temperature and Thermometers.
 - **Sat 2 Jan 2027: Heat and Temperature.** Theories of heat, thermometers and scales. Study: Lesson 16: Kinetic Theory, Phases and Expansion.
 
 ### Week 7 (from 4 Jan 2027): Sections B-C: Heat, waves, light
@@ -127,7 +127,7 @@ Crossovers with the other series: Week 9, session 3: Study hall with Arjun Ramde
 
 - **Mon 1 Feb 2027: Lenses: The Camera in Your Hand.** Ray diagrams and magnification. Study: practice set in the session.
 - **Wed 3 Feb 2027: Heat, Waves and Light Checkpoint.** Timed test on Sections B and C. Study: practice set in the session.
-- **Sat 6 Feb 2027: Checkpoint Results.** Updated skill profile; adjust the plan. Study: Lesson 29: Electrostatics and Electric Fields.
+- **Sat 6 Feb 2027: Checkpoint Results.** Updated skill profile; adjust the plan; SBA check-in: lab book catch-up, missing practicals written up. Study: Lesson 29: Electrostatics and Electric Fields.
 
 ### Week 12 (from 8 Feb 2027): Sections D-E: Electricity, the atom
 
